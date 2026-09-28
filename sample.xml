@@ -11,7 +11,7 @@
         <message time="13:37">Try, but send.</message>
     </transmission>
     
-    <transmission>
+    <transmission from="v" to="n">
         <sender>Valentia</sender>
         <recipient>Newfoundland</recipient>
         <message time="15:41">The Military Secretary to Commander-in-Chief, Horse Guards, London. To General Trollope, Halifax, Nova Scotia: The Sixty second Regiment is not to return to England.</message>
